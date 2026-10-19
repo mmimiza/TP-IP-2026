@@ -1,4 +1,4 @@
-efiniciones import *
+from definiciones import *
 
 #### Algunas funciones ya dadas
 
@@ -87,3 +87,4 @@ def hay_ganador_determinado(j : Juego) -> bool:
 
 def ganador_del_juego(j : Juego) -> Color:
     raise Exception("No implementado")
+
